@@ -1,0 +1,25 @@
+{
+  "name": "cosmic-dawn-observer",
+  "version": "1.0.0",
+  "description": "Observes the dawn in cosmic settings, offering insights into the birth of stars and cosmic phenomena.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/cosmic-dawn-observer"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "delta-moon-projector": "1.0.0",
+    "epsilon-star-analyser": "1.0.0",
+    "validator": "1.0.0",
+    "eslint": "1.0.0",
+    "cheerio": "1.0.0",
+    "helmet": "1.0.0"
+  }
+}
